@@ -1,6 +1,6 @@
 class Person
 
-def method_name
+def talk
 
 end
    end
